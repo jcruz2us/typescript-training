@@ -48,7 +48,7 @@
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom",
     "lint": "./node_modules/tslint/bin/tslint --project .",
-    "pretty": "./node_modules/prettier/bin-prettier.js --write --trailing-comma=all \"./**/**/*.{js,ts,jsx,tsx}\""
+    "pretty": "./node_modules/prettier/bin-prettier.js --write --trailing-comma=all \"./src/**/*.{js,ts,jsx,tsx}\""
   },
   "devDependencies": {
     "@types/jest": "^23.3.10",
