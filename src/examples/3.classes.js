@@ -6,7 +6,6 @@ export class Hotel {
   }
 }
 
-  
 (function run() {
   const hotel = new Hotel(1, false, {});
 })();

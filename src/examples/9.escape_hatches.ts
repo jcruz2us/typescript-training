@@ -1,6 +1,5 @@
 export class Hotel {
-  constructor(public name?: string) {
-  }
+  constructor(public name?: string) {}
 }
 
 (function run() {
