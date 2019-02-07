@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the expected ui 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src={undefined}
+    />
+    <p>
+      Click Count: 
+      0
+       
+      <button
+        onClick={[Function]}
+      >
+        +
+      </button>
+    </p>
+    <p>
+      Edit 
+      <code>
+        src/App.tsx
+      </code>
+       and save to reload.
+    </p>
+    <a
+      className="App-link"
+      href="https://reactjs.org"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Master React!
+       
+      foo
+    </a>
+  </header>
+</div>
+`;
