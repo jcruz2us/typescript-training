@@ -11,7 +11,7 @@ class App extends React.Component {
             className="App-logo"
             alt="logo"
           />
-          <p>Welcome to TypeScript Nerd Training</p>
+          <p>Welcome to TypeScript Nerd Training!</p>
         </header>
       </div>
     );
